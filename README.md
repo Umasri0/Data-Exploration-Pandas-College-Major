@@ -1,4 +1,7 @@
 # Data-Exploration-Pandas-College-Major
+Data Exploration with Pandas by Analyzing the Post-University Salaries of Graduates by Major
+
+
 1. To explore your DataFrame and find out the number of rows and columns as well as the column names.
 2. To clean up your DataFrame.
 3. Access entire columns of a DataFrame.
